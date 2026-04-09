@@ -1,0 +1,9 @@
+A 1 3 0
+A 2 2 1 0
+A 3 4 1 0
+A 4 2 2 3 0
+
+
+g++ assg03.cpp -o ans 
+./ans input.txt 2 6 6 10 5 --mode1 
+./ans input.txt 2 6 6 10 5 --mode2 4
